@@ -1,0 +1,4 @@
+source/catalogue.js
+source/dist/
+dist/
+.DS_Store
